@@ -1,5 +1,4 @@
-# DecodeLabs-Data-Analysis-Project-2-
-Credit Card Fraud Detection 
+Credit Card Fraud Detection – DecodeLabs Project 2
 Project Overview
 This project demonstrates the process of detecting fraudulent credit card transactions through data analysis and machine learning. The dataset was explored, cleaned, and analyzed before building a predictive model to classify genuine and fraudulent transactions.
 Project Objectives
@@ -43,4 +42,3 @@ Author
 Hafsa Shaikh
 DecodeLabs Intern
 BS Computer Science Student
-Data Analysis Project 2 completed as part of the DecodeLabs Internship Program using Python, Pandas, NumPy, and Matplotlib.
